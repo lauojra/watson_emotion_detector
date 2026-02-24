@@ -1,4 +1,4 @@
-5000"""
+"""
 Flask app providing an emotion detection API endpoint and UI renderer.
 Runs locally on port 5000 and exposes `/emotionDetector`.
 """
